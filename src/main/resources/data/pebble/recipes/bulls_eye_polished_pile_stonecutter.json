@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pebble:bulls_eye_smooth_pile"
+  },
+  "result": "pebble:bulls_eye_polished_pile",
+  "count": 1
+}

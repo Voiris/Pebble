@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "pebble:jasper_pile"
+  },
+  "result": "pebble:jasper_smooth_pile"
+}

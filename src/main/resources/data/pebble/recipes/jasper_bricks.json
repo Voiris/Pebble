@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:jasper_polished_pile"
+    },
+    {
+      "item": "pebble:jasper_polished_pile"
+    },
+    {
+      "item": "pebble:jasper_polished_pile"
+    },
+    {
+      "item": "pebble:jasper_polished_pile"
+    }
+  ],
+  "result": {
+    "item": "pebble:jasper_bricks",
+    "count": 4
+  }
+}

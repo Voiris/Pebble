@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:rose_quartz_handful"
+    },
+    {
+      "item": "pebble:rose_quartz_handful"
+    },
+    {
+      "item": "pebble:rose_quartz_handful"
+    },
+    {
+      "item": "pebble:rose_quartz_handful"
+    }
+  ],
+  "result": {
+    "item": "pebble:rose_quartz_large_handful",
+    "count": 1
+  }
+}

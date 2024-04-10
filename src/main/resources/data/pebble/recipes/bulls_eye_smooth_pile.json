@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "pebble:bulls_eye_pile"
+  },
+  "result": "pebble:bulls_eye_smooth_pile"
+}

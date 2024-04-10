@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "pebble:pebble_smooth_pile",
+    "pebble:pebble_polished_pile",
+    "pebble:pebble_bricks",
+    "pebble:rose_quartz_smooth_pile",
+    "pebble:rose_quartz_polished_pile",
+    "pebble:rose_quartz_bricks",
+    "pebble:jasper_smooth_pile",
+    "pebble:jasper_polished_pile",
+    "pebble:jasper_bricks",
+    "pebble:bulls_eye_smooth_pile",
+    "pebble:bulls_eye_polished_pile",
+    "pebble:bulls_eye_bricks",
+    "pebble:larimar_smooth_pile",
+    "pebble:larimar_polished_pile",
+    "pebble:larimar_bricks",
+    "pebble:nephrite_smooth_pile",
+    "pebble:nephrite_polished_pile",
+    "pebble:nephrite_bricks",
+    "pebble:sunstone_smooth_pile",
+    "pebble:sunstone_polished_pile",
+    "pebble:sunstone_bricks"
+  ]
+}

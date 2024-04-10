@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:nephrite_large_handful"
+    },
+    {
+      "item": "pebble:nephrite_large_handful"
+    },
+    {
+      "item": "pebble:nephrite_large_handful"
+    },
+    {
+      "item": "pebble:nephrite_large_handful"
+    }
+  ],
+  "result": {
+    "item": "pebble:nephrite_pile",
+    "count": 1
+  }
+}

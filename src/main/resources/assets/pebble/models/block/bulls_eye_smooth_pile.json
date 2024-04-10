@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pebble:block/bulls_eye_smooth_pile"
+  }
+}

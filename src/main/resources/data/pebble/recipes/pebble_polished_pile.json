@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:pebble_smooth_pile"
+    },
+    {
+      "item": "pebble:pebble_smooth_pile"
+    },
+    {
+      "item": "pebble:pebble_smooth_pile"
+    },
+    {
+      "item": "pebble:pebble_smooth_pile"
+    }
+  ],
+  "result": {
+    "item": "pebble:pebble_polished_pile",
+    "count": 4
+  }
+}

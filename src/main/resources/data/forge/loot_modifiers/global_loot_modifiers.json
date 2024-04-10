@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "entries": [
+    "pebble:pebble_drop",
+    "pebble:rose_quartz_drop",
+    "pebble:jasper_drop",
+    "pebble:bulls_eye_drop",
+    "pebble:larimar_drop",
+    "pebble:nephrite_drop",
+    "pebble:sunstone_drop"
+  ]
+}

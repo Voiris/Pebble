@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:bulls_eye"
+    },
+    {
+      "item": "pebble:bulls_eye"
+    },
+    {
+      "item": "pebble:bulls_eye"
+    },
+    {
+      "item": "pebble:bulls_eye"
+    }
+  ],
+  "result": {
+    "item": "pebble:bulls_eye_handful",
+    "count": 1
+  }
+}

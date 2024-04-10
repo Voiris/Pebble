@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pebble:larimar_smooth_pile"
+  },
+  "result": "pebble:larimar_polished_pile",
+  "count": 1
+}

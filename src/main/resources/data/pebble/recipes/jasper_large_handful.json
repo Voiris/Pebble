@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:jasper_handful"
+    },
+    {
+      "item": "pebble:jasper_handful"
+    },
+    {
+      "item": "pebble:jasper_handful"
+    },
+    {
+      "item": "pebble:jasper_handful"
+    }
+  ],
+  "result": {
+    "item": "pebble:jasper_large_handful",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "pebble:sunstone_pile"
+  },
+  "result": "pebble:sunstone_smooth_pile"
+}

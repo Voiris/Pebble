@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "pebble:block/rose_quartz_bricks"
+  }
+}

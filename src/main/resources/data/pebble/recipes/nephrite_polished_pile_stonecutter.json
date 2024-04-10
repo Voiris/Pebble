@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pebble:nephrite_smooth_pile"
+  },
+  "result": "pebble:nephrite_polished_pile",
+  "count": 1
+}

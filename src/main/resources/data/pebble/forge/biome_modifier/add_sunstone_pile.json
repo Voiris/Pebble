@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_badlands",
+  "features": "pebble:sunstone_pile_placed",
+  "step": "underground_decoration"
+}

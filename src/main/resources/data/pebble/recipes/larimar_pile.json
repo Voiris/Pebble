@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:larimar_large_handful"
+    },
+    {
+      "item": "pebble:larimar_large_handful"
+    },
+    {
+      "item": "pebble:larimar_large_handful"
+    },
+    {
+      "item": "pebble:larimar_large_handful"
+    }
+  ],
+  "result": {
+    "item": "pebble:larimar_pile",
+    "count": 1
+  }
+}

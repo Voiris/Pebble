@@ -1,0 +1,10 @@
+{
+  "type": "pebble:bulls_eye_drop",
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:stone"
+    }
+  ],
+  "item": "pebble:bulls_eye"
+}

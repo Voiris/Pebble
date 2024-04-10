@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "pebble:block/bulls_eye_pile" }
+  }
+}

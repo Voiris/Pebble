@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:bulls_eye_large_handful"
+    },
+    {
+      "item": "pebble:bulls_eye_large_handful"
+    },
+    {
+      "item": "pebble:bulls_eye_large_handful"
+    },
+    {
+      "item": "pebble:bulls_eye_large_handful"
+    }
+  ],
+  "result": {
+    "item": "pebble:bulls_eye_pile",
+    "count": 1
+  }
+}

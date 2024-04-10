@@ -1,0 +1,32 @@
+{
+  "pile_break": {
+    "subtitle": "pebble.pile_break",
+    "sounds": [
+      "pebble:pile_break"
+    ]
+  },
+  "pile_step": {
+    "subtitle": "pebble.pile_step",
+    "sounds": [
+      "pebble:pile_step"
+    ]
+  },
+  "pile_place": {
+    "subtitle": "pebble.pile_place",
+    "sounds": [
+      "pebble:pile_place"
+    ]
+  },
+  "pile_hit": {
+    "subtitle": "pebble.pile_hit",
+    "sounds": [
+      "pebble:pile_hit"
+    ]
+  },
+  "pile_fall": {
+    "subtitle": "pebble.pile_fall",
+    "sounds": [
+      "pebble:pile_fall"
+    ]
+  }
+}

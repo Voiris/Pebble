@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:sunstone_large_handful"
+    },
+    {
+      "item": "pebble:sunstone_large_handful"
+    },
+    {
+      "item": "pebble:sunstone_large_handful"
+    },
+    {
+      "item": "pebble:sunstone_large_handful"
+    }
+  ],
+  "result": {
+    "item": "pebble:sunstone_pile",
+    "count": 1
+  }
+}

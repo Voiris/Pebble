@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_savanna",
+  "features": "pebble:rose_quartz_pile_placed",
+  "step": "underground_decoration"
+}

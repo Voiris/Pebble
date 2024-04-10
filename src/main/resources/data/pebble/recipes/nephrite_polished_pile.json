@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:nephrite_smooth_pile"
+    },
+    {
+      "item": "pebble:nephrite_smooth_pile"
+    },
+    {
+      "item": "pebble:nephrite_smooth_pile"
+    },
+    {
+      "item": "pebble:nephrite_smooth_pile"
+    }
+  ],
+  "result": {
+    "item": "pebble:nephrite_polished_pile",
+    "count": 4
+  }
+}

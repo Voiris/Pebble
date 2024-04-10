@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:sunstone_polished_pile"
+    },
+    {
+      "item": "pebble:sunstone_polished_pile"
+    },
+    {
+      "item": "pebble:sunstone_polished_pile"
+    },
+    {
+      "item": "pebble:sunstone_polished_pile"
+    }
+  ],
+  "result": {
+    "item": "pebble:sunstone_bricks",
+    "count": 4
+  }
+}

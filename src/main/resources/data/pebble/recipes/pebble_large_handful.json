@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:pebble_handful"
+    },
+    {
+      "item": "pebble:pebble_handful"
+    },
+    {
+      "item": "pebble:pebble_handful"
+    },
+    {
+      "item": "pebble:pebble_handful"
+    }
+  ],
+  "result": {
+    "item": "pebble:pebble_large_handful",
+    "count": 1
+  }
+}

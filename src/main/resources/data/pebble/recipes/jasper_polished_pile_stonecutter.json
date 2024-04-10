@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pebble:jasper_smooth_pile"
+  },
+  "result": "pebble:jasper_polished_pile",
+  "count": 1
+}

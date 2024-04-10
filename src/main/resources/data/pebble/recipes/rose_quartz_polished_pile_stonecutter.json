@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "pebble:rose_quartz_smooth_pile"
+  },
+  "result": "pebble:rose_quartz_polished_pile",
+  "count": 1
+}

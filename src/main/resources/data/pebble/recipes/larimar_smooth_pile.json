@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "pebble:larimar_pile"
+  },
+  "result": "pebble:larimar_smooth_pile"
+}

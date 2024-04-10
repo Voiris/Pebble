@@ -1,0 +1,10 @@
+{
+  "type": "pebble:larimar_drop",
+  "conditions": [
+    {
+      "condition": "block_state_property",
+      "block": "minecraft:stone"
+    }
+  ],
+  "item": "pebble:larimar"
+}

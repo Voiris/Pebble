@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "pebble:pebble_pile",
+    "pebble:rose_quartz_pile",
+    "pebble:jasper_pile",
+    "pebble:bulls_eye_pile",
+    "pebble:larimar_pile",
+    "pebble:nephrite_pile",
+    "pebble:sunstone_pile"
+  ]
+}

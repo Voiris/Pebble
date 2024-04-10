@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "pebble:larimar_polished_pile"
+    },
+    {
+      "item": "pebble:larimar_polished_pile"
+    },
+    {
+      "item": "pebble:larimar_polished_pile"
+    },
+    {
+      "item": "pebble:larimar_polished_pile"
+    }
+  ],
+  "result": {
+    "item": "pebble:larimar_bricks",
+    "count": 4
+  }
+}
